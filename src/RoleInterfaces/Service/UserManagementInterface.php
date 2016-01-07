@@ -2,9 +2,9 @@
 
 /**
  * 
- * (c) Steven B�hner <buehner@me.com>
+ * (c) Steven Bühner <buehner@me.com>
 
- * @author steven
+ * @author Steven Bühner
  * @license MIT
  *
  * For the full copyright and license information, please view the LICENSE
@@ -12,7 +12,7 @@
  */
 namespace RoleInterfaces\Service;
 
-interface GroupManagementInterface {
+interface UserManagementInterface {
 
 	/**
 	 *
