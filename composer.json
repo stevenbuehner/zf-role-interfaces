@@ -13,7 +13,10 @@
     "require": {},
     "autoload": {
         "psr-0": {
-            "RoleInterfaces": "src"
-        }
+            "RoleInterfaces\\": "src/"
+        },
+        "classmap": [
+            "src/"
+        ]
     }
 }
