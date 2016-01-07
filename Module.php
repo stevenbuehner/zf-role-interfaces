@@ -1,11 +1,14 @@
 <?php
 
 /**
- * Zend Framework (http://framework.zend.com/)
+ * 
+ * (c) Steven BŸhner <buehner@me.com>
+
+ * @author steven
+ * @license MIT
  *
- * @link      http://github.com/zendframework/RoleInterfaces for the canonical source repository
- * @copyright Copyright (c) 2005-2012 Zend Technologies USA Inc. (http://www.zend.com)
- * @license   http://framework.zend.com/license/new-bsd New BSD License
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
  */
 namespace RoleInterfaces;
 
