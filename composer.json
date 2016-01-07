@@ -12,11 +12,8 @@
     ],
     "require": {},
     "autoload": {
-        "psr-4": {
-            "RoleInterfaces\\": "src/"
-        },
-        "classmap": [
-            "Module.php"
-        ]
+        "psr-0": {
+            "RoleInterfaces": "src"
+        }
     }
 }
