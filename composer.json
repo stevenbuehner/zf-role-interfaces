@@ -1,0 +1,22 @@
+{
+    "name": "stevenbuehner/role-interfaces",
+    "description": "Interfaces for user and group services used by htuserManager and htgroupManager",
+    "keywords": ["interface", "zf2"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Steven Buehner",
+            "email": "buehner@me.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RoleInterfaces\\": "src/"
+        },
+        "classmap": [
+            "Module.php"
+        ]
+    }
+}
